@@ -1,0 +1,44 @@
+body {
+  display: inline;
+  margin: 0;
+}
+
+.prvi {
+  width: 100%;
+  display: inline;
+  background-color: #FFB6C1;
+  position: absolute;
+  margin-top: 0;
+  margin-left: 240px;
+  height: 240px;
+}
+.drugi {
+  margin: 0;
+  background-color: #FFB6C1;
+  position: absolute;
+  width: 240px;
+  height: 240px;
+}
+img {
+  border-radius: 100%;
+  background-color: green;
+}
+h1 {
+  font-family: 'Dancing Script', cursive;
+  margin-left: 30px;
+}
+
+p {
+  margin-left: 30px;
+}
+
+a {
+  display: inline-block;
+  position: absolute;
+  margin-top: 100px;
+  margin-left: 30px;
+}
+
+img:hover {
+  background-color: blue;
+}
